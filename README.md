@@ -12,6 +12,9 @@ So far, it seems a lot faster than otehr examples I've seen. :)
 
 1.![screenShot1](screenShot1.PNG?raw=true "screenShot1")2. ![screenShot2](screenShot2.PNG?raw=true "screenShot2")
 
+##How it works
+Reference: http://lodev.org/cgtutor/raycasting.html
+
 ##Note
 This only works for Python 3.*! (Could be converted)
 
